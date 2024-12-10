@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.5ceb967f.css",
+    "main.js": "/myportfolio/static/js/main.0c2a1276.js",
+    "static/media/undangan_nikah.png": "/myportfolio/static/media/undangan_nikah.9d45ea522012b267b378.png",
+    "static/media/resume.pdf": "/myportfolio/static/media/resume.983f67f31483a2330b0b.pdf",
+    "static/media/screenshot.png": "/myportfolio/static/media/screenshot.c30b086eb83aa30bf20a.png",
+    "static/media/umkm.png": "/myportfolio/static/media/umkm.606b1818b5c24ea7934b.png",
+    "static/media/profil.jpg": "/myportfolio/static/media/profil.953c15c924d85b035087.jpg",
+    "static/media/logo.svg": "/myportfolio/static/media/logo.71838794dc8c966b74cc7aea0b7eac6d.svg",
+    "static/media/service-3.svg": "/myportfolio/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
+    "static/media/service-2.svg": "/myportfolio/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
+    "static/media/service-1.svg": "/myportfolio/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
+    "static/media/dots-bg-dark.svg": "/myportfolio/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
+    "static/media/dots-bg.svg": "/myportfolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "index.html": "/myportfolio/index.html",
+    "main.5ceb967f.css.map": "/myportfolio/static/css/main.5ceb967f.css.map",
+    "main.0c2a1276.js.map": "/myportfolio/static/js/main.0c2a1276.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ceb967f.css",
+    "static/js/main.0c2a1276.js"
+  ]
+}
